@@ -1,5 +1,7 @@
 # Sistem-Informasi-Laboratorium-Biologi
 
+Create collaborative projects in creating biological laboratory information systems
+
 Author
 - Michael Amanda Silalahi   (4213550030)
 - Rini Andriani             (4211250015)
